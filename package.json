@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/taminascimento.lwc-l6b58r2t",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve RtkCTLOqeemnqGBeG4jQ --open"
+  }
+}
